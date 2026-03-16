@@ -1,10 +1,10 @@
 body{
-    background-color: #e6f2ff;
+    background-color: "light Yellow";
     font-family: Arial, sans-serif;    
 }
 
 .container{
-    background: white;
+    background: "light pink";
     width: 600px;
     margin: auto;
     padding: 20px;
@@ -13,7 +13,7 @@ body{
 }
 
 h1{
-    color: #003366;
+    color: "beige";
 }
 
 .perfil{
